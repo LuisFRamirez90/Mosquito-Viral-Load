@@ -1,0 +1,11 @@
+Strain,DENV status,Name,Target/Ref
+WT,Pos,"WT,D5,CC,+,4",3.51E-02
+WT,Neg,"WT,D5,CC,-,6",9.28E-02
+wMel,Pos,"wMel,D5,CC+,1",0.1794
+wMel,Pos,"wMel,D5,CC+,4",7.99E-02
+wMel,Neg,"wMel,D5,CC,-,1",4.23E-02
+wMel,Neg,"wMel,D5,CC,-,2",7.61E-03
+wMel,Neg,"wMel,D5,CC,-,3",9.14E-03
+wMel,Neg,"wMel,D5,CC,-,4",3.29E-02
+wMel,Neg,"wMel,D5,CC,-,5",9.14E-03
+wMel,Neg,"wMel,D5,CC,-,6",1.39E-02
